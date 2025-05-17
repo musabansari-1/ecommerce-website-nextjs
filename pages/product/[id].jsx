@@ -29,6 +29,11 @@ const decQty = () => {
     });
 }
 
+  if (!product) {
+  return <div>Product not found</div>;
+}
+
+
   return (
     <div className='d-flex justify-content-evenly productDetail'>
     <div className='product-image'>

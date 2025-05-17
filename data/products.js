@@ -202,6 +202,4 @@ export const products = [
     "description": "Add a pop of color to your wardrobe with our Graphic Shoes. This colorful graphic T-shirt is perfect for casual wear, allowing you to express your unique style and personality.",
     "quantity": 1
   }
-  // ... (other products with quantity manually added)
   ];
-  // ... (other products with quantity manually added)
