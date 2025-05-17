@@ -2,7 +2,7 @@ import React from 'react';
 import Head from 'next/head';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import LeaderBoard from './leaderBoard';
+import LeaderBoard from './LeaderBoard';
 import { useStateContext } from '@/context/StateContext';
 
 const Layout = ({children}) => {
