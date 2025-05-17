@@ -1,0 +1,60 @@
+const url = 'https://source.unsplash.com/random/800x800/?img=1'
+let count = 1;
+
+// export const usersData =  [
+//   {"username": "User1", "image": url.replace(1,count++), "points": 100},
+//   {"username": "User2", "image": url.replace(1,count++), "points": 85},
+//   {"username": "User3", "image": url.replace(1,count++), "points": 70},
+//   {"username": "User4", "image": url.replace(1,count++), "points": 60},
+//   {"username": "User5", "image": url.replace(1,count++), "points": 55},
+//   {"username": "User6", "image": url.replace(1,count++), "points": 45},
+//   {"username": "User7", "image": url.replace(1,count++), "points": 40},
+//   {"username": "User8", "image": url.replace(1,count++), "points": 35},
+//   {"username": "User9", "image": url.replace(1,count++), "points": 30},
+//   {"username": "User10", "image": url.replace(1,count++), "points": 25},
+//   {"username": "User11", "image": url.replace(1,count++), "points": 20},
+//   {"username": "User12", "image": url.replace(1,count++), "points": 18},
+//   {"username": "User13", "image": url.replace(1,count++), "points": 15},
+//   {"username": "User14", "image": url.replace(1,count++), "points": 12},
+//   {"username": "User15", "image": url.replace(1,count++), "points": 10},
+//   {"username": "User16", "image": url.replace(1,count++), "points": 8},
+//   {"username": "User17", "image": url.replace(1,count++), "points": 6},
+//   {"username": "User18", "image": url.replace(1,count++), "points": 4},
+//   {"username": "User19", "image": url.replace(1,count++), "points": 2},
+//   {"username": "User20", "image": url.replace(1,count++), "points": 1},
+// ]
+   
+
+
+export const usersData = [
+  {"username": "User1", "realName": "John Doe", "image": url.replace(1,count++), "points": 100},
+  {"username": "User2", "realName": "Jane Smith", "image": url.replace(1,count++), "points": 85},
+  {"username": "User3", "realName": "Michael Johnson", "image": url.replace(1,count++), "points": 70},
+  {"username": "User4", "realName": "Emily Davis", "image": url.replace(1,count++), "points": 60},
+  {"username": "User5", "realName": "David Wilson", "image": url.replace(1,count++), "points": 55},
+  {"username": "User6", "realName": "Linda Martinez", "image": url.replace(1,count++), "points": 45},
+  {"username": "User7", "realName": "Susan Jones", "image": url.replace(1,count++), "points": 40},
+  {"username": "User8", "realName": "Robert Brown", "image": url.replace(1,count++), "points": 35},
+  {"username": "User9", "realName": "William Taylor", "image": url.replace(1,count++), "points": 30},
+  {"username": "User10", "realName": "Mary Anderson", "image": url.replace(1,count++), "points": 25},
+  {"username": "User11", "realName": "Patricia White", "image": url.replace(1,count++), "points": 20},
+  {"username": "User12", "realName": "Richard Harris", "image": url.replace(1,count++), "points": 18},
+  {"username": "User13", "realName": "Thomas Lee", "image": url.replace(1,count++), "points": 15},
+  {"username": "User14", "realName": "Elizabeth Clark", "image": url.replace(1,count++), "points": 12},
+  {"username": "User15", "realName": "Jennifer Turner", "image": url.replace(1,count++), "points": 10},
+  {"username": "User16", "realName": "Charles Scott", "image": url.replace(1,count++), "points": 8},
+  {"username": "User17", "realName": "Daniel Hall", "image": url.replace(1,count++), "points": 6},
+  {"username": "User18", "realName": "Karen Walker", "image": url.replace(1,count++), "points": 4},
+  {"username": "User19", "realName": "Nancy Miller", "image": url.replace(1,count++), "points": 2},
+  {"username": "User20", "realName": "Lisa Harris", "image": url.replace(1,count++), "points": 1},
+  {"username": "User21", "realName": "Mark Wilson", "image": url.replace(1,count++), "points": 100},
+  {"username": "User22", "realName": "Margaret Moore", "image": url.replace(1,count++), "points": 85},
+  {"username": "User23", "realName": "Sarah Taylor", "image": url.replace(1,count++), "points": 70},
+  {"username": "User24", "realName": "Christopher King", "image": url.replace(1,count++), "points": 60},
+  {"username": "User25", "realName": "Paul Anderson", "image": url.replace(1,count++), "points": 55},
+  {"username": "User26", "realName": "Donna Martinez", "image": url.replace(1,count++), "points": 45},
+  {"username": "User27", "realName": "Laura Allen", "image": url.replace(1,count++), "points": 40},
+  {"username": "User28", "realName": "Kenneth Young", "image": url.replace(1,count++), "points": 35},
+  {"username": "User29", "realName": "Sandra Davis", "image": url.replace(1,count++), "points": 30},
+  {"username": "User30", "realName": "Alice Brown", "image": url.replace(1,count++), "points": 5}
+];
